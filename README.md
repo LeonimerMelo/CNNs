@@ -55,5 +55,3 @@ Uma CNN é composta por várias camadas organizadas para aprender representaçõ
 
 ### Resumo
 As CNNs revolucionaram a área de aprendizado de máquina, tornando possíveis avanços significativos em aplicações baseadas em imagens e vídeos. Elas aproveitam a ideia de convoluções para aprender padrões de maneira eficiente, resultando em modelos poderosos e escaláveis.
-
-Se precisar de exemplos práticos ou detalhes técnicos, posso aprofundar qualquer aspecto. 😊
